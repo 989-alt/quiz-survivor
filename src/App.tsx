@@ -219,7 +219,7 @@ function App() {
               marginBottom: 'clamp(8px, 1.5vh, 16px)',
             }}
           >
-            <span className="gradient-text">Survivor</span>
+            <span className="gradient-text">Quiz</span>
           </h1>
           <h2
             style={{
@@ -230,7 +230,7 @@ function App() {
               color: '#fafafa',
             }}
           >
-            Quiz Brawl
+            Survivor
           </h2>
         </div>
 
@@ -392,7 +392,7 @@ function App() {
             ))}
           </div>
           <p style={{ fontSize: 'clamp(10px, 0.9vw, 12px)', color: '#52525b', fontWeight: 500 }}>
-            © 2026 Survivor Quiz Brawl
+            © 2026 Quiz Survivor
           </p>
           <p style={{ fontSize: 'clamp(9px, 0.8vw, 11px)', color: '#3f3f46', marginTop: 6 }}>
             22개정 교육과정 · 5~6학년 수학 · Phaser 3 + React + Firebase

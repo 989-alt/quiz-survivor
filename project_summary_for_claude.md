@@ -1,4 +1,4 @@
-# Survivor Quiz Brawl - 프로젝트 요약 및 개발 방향
+# Quiz Survivor - 프로젝트 요약 및 개발 방향
 
 ## 프로젝트 개요
 교육용 서바이벌 퀴즈 게임. 뱀파이어 서바이버 스타일의 게임플레이 + AI 기반 퀴즈 생성.
@@ -54,7 +54,7 @@
 ## 주요 파일 구조
 
 ```
-survivor-quiz-brawl/
+quiz-survivor/
 ├── src/
 │   ├── components/
 │   │   ├── teacher/          # 교사용 (업로드, 대시보드)

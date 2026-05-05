@@ -1,4 +1,4 @@
-# Survivor Quiz Brawl - Design Assets Checklist
+# Quiz Survivor - Design Assets Checklist
 
 ## 🎮 Player Character
 | Asset | Size | Description | Status |

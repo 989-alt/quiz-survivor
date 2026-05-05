@@ -1,7 +1,7 @@
-# Survivor Quiz Brawl — 단원 기반 솔로 + 통합 랭킹 리디자인
+# Quiz Survivor — 단원 기반 솔로 + 통합 랭킹 리디자인
 
 날짜: 2026-05-04
-대상: `survivor-quiz-brawl` (React 19 + Vite + Phaser 3)
+대상: `quiz-survivor` (React 19 + Vite + Phaser 3)
 
 ## 목표
 

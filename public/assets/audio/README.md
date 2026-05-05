@@ -1,4 +1,4 @@
-# Audio Assets — Survivor Quiz Brawl
+# Audio Assets — Quiz Survivor
 
 이 폴더에 아래 파일을 추가하면 게임에서 즉시 작동합니다. 파일이 없으면 게임은 정상 작동하지만 무음입니다.
 
